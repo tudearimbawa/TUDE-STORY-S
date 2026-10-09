@@ -1,0 +1,6 @@
+{
+  "name": "Catatan Syahdu",
+  "description": "Notepad pribadi dengan pemutar musik latar dan ambient soundscape untuk suasana membaca dan menulis yang syahdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
